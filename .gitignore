@@ -1,0 +1,4 @@
+# Activating virtual env: `source venv/bin/activate`
+venv/
+.venv/
+.flaskenv
