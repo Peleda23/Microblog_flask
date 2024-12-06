@@ -2,3 +2,5 @@
 venv/
 .venv/
 .flaskenv
+__pycache__/
+.flaskenv
