@@ -3,4 +3,5 @@ venv/
 .venv/
 .flaskenv
 __pycache__/
-.flaskenv
+info.md
+.info.md
